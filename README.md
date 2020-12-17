@@ -28,7 +28,7 @@ Hey guys what's up! This is a Krunker.io hack that should probably be working fo
 
 > **What do I do if the cheat stops working?**
 
-Message [FRST] Elspex#0001 on Discord if the game is updated. Wait until a new commit is pushed.
+Message Mowu#1167 on Discord if the game is updated. Wait until a new commit is pushed.
 
 > **This feature isn't working for me!**
 
