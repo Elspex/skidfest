@@ -1,12 +1,16 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhASOBffzSGTNDLg_K8-vZ55J8pJSeTfTmaw&usqp=CAU)
 
+#Updated for 2021!!!
+
 # Welcome to Krunker Skidfest!
 
 Hey guys what's up! This is a Krunker.io hack that should probably be working for the next month, its pretty OP, having ESP, Aimbot, Auto Bhop, and everything else. All scrpits are created by me.
 
+### When you are finished install press F1 to open mod menu.
+
 ### 💪 Features
 
-* Aimbot with customizable prediction and speed settings
+* Aimbot
 * ESP
 * Unlock all skins and gun types!
 * Displays enemy lines
@@ -14,12 +18,16 @@ Hey guys what's up! This is a Krunker.io hack that should probably be working fo
 * Lasersight (shot range)
 * Render Changing
 * Menu Changer
+* No ads! (NEW!)
+* Silent Aimbot! (NEW!)
+* ScopeBot (NEW!)
+* Third Person! (NEW!)
 * Much Much More!!!
 
 ## 🔨 Installation
 
 1. Download this repo as a ZIP file.
-2. Extract the ZIP file you just downloaded, `ctrl-c` the code in the `hackscript.txt`
+2. Extract the ZIP file you just downloaded, `ctrl-c` the code in the `january2021.txt`
 3. Download Tampermonkey
 4. Make a new tampermonkey script and paste the code.
 5. Open [krunker.io](https://krunker.io)
