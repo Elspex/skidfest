@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Skidfest",
+  "version": "2.1.1",
+  "homepage_url": "https://skidlamer.github.io",
+  "background": {
+    "scripts": ["hook.js"],
+	"matches": ["*://krunker.io/*"]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+	"background",
+	"*://krunker.io/*"
+  ],
+  "web_accessible_resources": [
+    "nipplejs.min.js"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Skidfest"
+  }
+}
