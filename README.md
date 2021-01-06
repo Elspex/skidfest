@@ -1,6 +1,6 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhASOBffzSGTNDLg_K8-vZ55J8pJSeTfTmaw&usqp=CAU)
 
-# Updated for 2021!!!
+# Updated for 2021!!! There are now two ways to install. Chrome Extention and Tampermonkey.
 
 # Welcome to Krunker Skidfest!
 
@@ -24,13 +24,23 @@ Hey guys what's up! This is a Krunker.io hack that should probably be working fo
 * Third Person! (NEW!)
 * Much Much More!!!
 
-## 🔨 Installation
+# 🔨 Installation
 
-1. Download this repo as a ZIP file.
+## There are now two ways to install. Chrome Extention and Tampermonkey.
+
+# Tampermonkey
+1. Download the `january2021` release. (On the right side of the page on github.)
 2. Extract the ZIP file you just downloaded, `ctrl-c` the code in the `january2021.txt`
 3. Download Tampermonkey
 4. Make a new tampermonkey script and paste the code.
 5. Open [krunker.io](https://krunker.io)
+
+# Chrome Extention
+1. Download the `ChromeExtention2021` release. (On the right side of the page on github.)
+2. Go to [chrome://extentions](chrome://extentions)
+3. Enable developer mode. (Top right)
+4. Drag and drop the zip file into the chrome extention page.
+5. Open [kruker.io](https://krunker.io)
 
 ## 🤔 FAQ
 
