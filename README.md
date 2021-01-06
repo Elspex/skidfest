@@ -1,6 +1,6 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhASOBffzSGTNDLg_K8-vZ55J8pJSeTfTmaw&usqp=CAU)
 
-#Updated for 2021!!!
+# Updated for 2021!!!
 
 # Welcome to Krunker Skidfest!
 
