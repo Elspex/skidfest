@@ -1,7 +1,5 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhASOBffzSGTNDLg_K8-vZ55J8pJSeTfTmaw&usqp=CAU)
 
-# Third Person has been removed for bug reasons.
-
 # Welcome to Krunker Skidfest!
 
 Hey guys what's up! This is a Krunker.io hack that should probably be working for the next month, its pretty OP, having ESP, Aimbot, Auto Bhop, and everything else. All scrpits are created by me.
@@ -21,7 +19,7 @@ Hey guys what's up! This is a Krunker.io hack that should probably be working fo
 * No ads! (NEW!)
 * Silent Aimbot! (NEW!)
 * ScopeBot (NEW!)
-* ~~Third Person!~~
+* ~~Third Person!~~ (removed for bug reasons)
 * Much Much More!!!
 
 # 🔨 Installation
