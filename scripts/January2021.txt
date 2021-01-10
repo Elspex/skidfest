@@ -29,7 +29,7 @@ class Utilities {
         this.renderFrame = 0;
         this.fps = 0;
         this.lists = {
-            renderESP: {
+            renderESP: { 
                 off: "Off",
                 walls: "Walls",
                 twoD: "2d",
