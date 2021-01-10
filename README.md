@@ -1,6 +1,6 @@
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhASOBffzSGTNDLg_K8-vZ55J8pJSeTfTmaw&usqp=CAU)
 
-# Updated for 2021!!! There are now two ways to install. Chrome Extention and Tampermonkey.
+# Third Person has been removed for bug reasons.
 
 # Welcome to Krunker Skidfest!
 
@@ -21,7 +21,7 @@ Hey guys what's up! This is a Krunker.io hack that should probably be working fo
 * No ads! (NEW!)
 * Silent Aimbot! (NEW!)
 * ScopeBot (NEW!)
-* Third Person! (NEW!)
+* ~~Third Person!~~
 * Much Much More!!!
 
 # 🔨 Installation
