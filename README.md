@@ -27,7 +27,7 @@ Hey guys what's up! This is a Krunker.io hack that should probably be working fo
 ## There are now two ways to install. Chrome Extention and Tampermonkey.
 ### Releases are here: https://github.com/Elspex/skidfest/releases
 # Tampermonkey
-1. Download the `Jan2021 Fix` release.
+1. Download the `Jan26th Fix.txt` in the scripts folder.
 2. Extract the ZIP file you just downloaded, `ctrl-c` the code in the `jan2021krunker.txt`
 3. Download Tampermonkey
 4. Make a new tampermonkey script and paste the code.
