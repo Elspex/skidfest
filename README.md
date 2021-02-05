@@ -28,7 +28,7 @@ Hey guys what's up! This is a Krunker.io hack that should probably be working fo
 ### Releases are here: https://github.com/Elspex/skidfest/releases
 # Tampermonkey
 1. Download the `Jan26th Fix.txt` in the scripts folder.
-2. Extract the ZIP file you just downloaded, `ctrl-c` the code in the `jan2021krunker.txt`
+2. Extract the ZIP file you just downloaded, `ctrl-c` the code in the `finally.txt`
 3. Download Tampermonkey
 4. Make a new tampermonkey script and paste the code.
 5. Open [krunker.io](https://krunker.io)
