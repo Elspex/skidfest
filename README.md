@@ -1,3 +1,7 @@
+# THIS HACK NO LONGER WORKS, I'M NOT UPDATING IT ANYMORE. I GOT BANNED FROM KRUNKER AND THATS THE END OF THAT I CAN'T BE BOTHERED TO KEEP GOING.
+
+
+
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhASOBffzSGTNDLg_K8-vZ55J8pJSeTfTmaw&usqp=CAU)
 
 # Welcome to Krunker Skidfest!
